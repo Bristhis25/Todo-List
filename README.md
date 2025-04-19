@@ -20,13 +20,17 @@ A simple and intuitive task management application built with React.js.
 ```bash
 git clone https://github.com/Bristhis25/Todo-List.git
 cd Todo-List
+```
 
 2. Install dependencies:
+```bash
 npm install
+```
 
 3. Start the application:
+```bash
 npm start
-
+```
 ## 💻 Technologies Used:
 - React.js
 - JavaScript
