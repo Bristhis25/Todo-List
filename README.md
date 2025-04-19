@@ -39,7 +39,8 @@ npm start
 - Vite
 
 ## 👨‍💻 Author: 
-Bristhis DEGBEKO
-\n📧 bristhisdegbeko@gmail.com  
+Bristhis DEGBEKO  
 
-\n🌐 https://bristhisdegbeko.fr
+📧 bristhisdegbeko@gmail.com  
+
+🌐 https://bristhisdegbeko.fr
