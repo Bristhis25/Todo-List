@@ -40,5 +40,6 @@ npm start
 
 ## 👨‍💻 Author: 
 Bristhis DEGBEKO
-📧 bristhisdegbeko@gmail.com
-🌐 https://bristhisdegbeko.fr
+\n📧 bristhisdegbeko@gmail.com  
+
+\n🌐 https://bristhisdegbeko.fr
